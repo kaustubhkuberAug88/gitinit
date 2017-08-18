@@ -1,0 +1,5 @@
+D:\Training\Kaustubh-Kuber\Task6\Task6\bin\Debug\Task6.exe.config
+D:\Training\Kaustubh-Kuber\Task6\Task6\bin\Debug\Task6.exe
+D:\Training\Kaustubh-Kuber\Task6\Task6\bin\Debug\Task6.pdb
+D:\Training\Kaustubh-Kuber\Task6\Task6\obj\Debug\Task6.exe
+D:\Training\Kaustubh-Kuber\Task6\Task6\obj\Debug\Task6.pdb
